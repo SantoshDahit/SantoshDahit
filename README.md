@@ -1,72 +1,33 @@
-# Hi there, I'm Santosh Dahit! 👋
+## Hi there 👋
 
-Welcome to my GitHub profile! I am a committed Backend Developer with a strong foundation in Computer Engineering, currently advancing my skills through a Master's program in Data Science at Kwangwoon University. My passion lies in developing robust backend systems and leveraging data science techniques to build innovative solutions. Dive into my repositories to discover the exciting projects I've been working on!
+Backend engineer in Seoul. I build Spring Boot services, the databases underneath them, and the AWS/GCP infrastructure they run on — currently at [Kayple](https://kayple.com/about), where I've shipped the backend for 7+ apps in production.
 
-## 🛠 My Technical Stack
+**[Portfolio](https://santoshdahit.github.io/portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/santosh-dahit/)** · santoshdahit454@gmail.com
 
-### Back end:
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-![REST API](https://img.icons8.com/color/48/000000/api.png)
-![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)
+![Profile Views](https://komarev.com/ghpvc/?username=SantoshDahit)
 
-### Front end:
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Ajax](https://img.shields.io/badge/Ajax-007ACC?style=for-the-badge&logo=ajax&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Database:
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantoshDahit&theme=github_dark" /><img width="820" alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantoshDahit&theme=default" /></picture>
+</p>
 
-### Other:
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SantoshDahit&theme=github_dark" /><img align="top" width="400" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SantoshDahit&theme=default" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SantoshDahit&theme=github_dark" /><img align="top" width="400" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SantoshDahit&theme=default" /></picture>
+</p>
 
-## 💼 Projects and Repositories
-
-### Featured Projects
-
-1. **[Spring Boot with AJAX](https://github.com/SantoshDahit/Spring_boot_with_AJAX)**
-   - Integrating AJAX with Spring Boot for dynamic web applications.
-   - **Technologies**: Spring Boot, AJAX
-
-2. **[XMLHttpRequest](https://github.com/SantoshDahit/xmlhttprequest)**
-   - Handling asynchronous requests using XMLHttpRequest in JavaScript.
-   - **Technologies**: JavaScript, XMLHttpRequest
-
-3. **[Book Manager](https://github.com/SantoshDahit/Book_manager)**
-   - A comprehensive book management system.
-   - **Technologies**: Spring Boot, MySQL
-
-4. **[CRUD with Spring Boot and Bootstrap](https://github.com/SantoshDahit/CURD_with_springboot_and_bootstrap)**
-   - Implementing CRUD operations with a stylish front-end using Bootstrap.
-   - **Technologies**: Spring Boot, Bootstrap
-
-5. **[CRUD Operation - Spring Security with Hibernate](https://github.com/SantoshDahit/CURD_operation-Spring_security_with_hibernate)**
-   - Securing CRUD operations using Spring Security and Hibernate.
-   - **Technologies**: Spring Security, Hibernate
-
-6. **[Undergrad Projects](https://github.com/SantoshDahit/Undergrad_projects)**
-   - A collection of projects completed during my undergraduate studies.
-   - **Technologies**: Various
-
-### Other Repositories
-
-- **[Employee JDBC](https://github.com/SantoshDahit/employee_JDBC)**: Java-based employee management using JDBC.
-- **[Project Prerequisite](https://github.com/SantoshDahit/project_prerequiste)**: A foundational project for understanding prerequisites.
-
-## 📫 Let's Connect
-
-- **Email**: sanntoshdahit454@gmail.com
-- **LinkedIn**: [Santosh Dahit](https://www.linkedin.com/in/santosh-dahit/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SantoshDahit&color=blue)
-
----
-
-Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any collaboration or discussion on backend development and data science.
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SantoshDahit&theme=github_dark" /><img align="top" width="400" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SantoshDahit&theme=default" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SantoshDahit&theme=github_dark" /><img align="top" width="400" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SantoshDahit&theme=default" /></picture>
+</p>
